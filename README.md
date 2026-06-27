@@ -52,27 +52,25 @@ Here are some ideas to get you started:
 
 ### 💫 About Me:
 
-I’m Sheikh Mohammad Ahmed — a young builder focused on turning ideas into real, working products through code, design, and AI.
+Hi, I’m Sheikh Mohammad Ahmed 👋
 
-Recently, I secured 1st position among 1100+ participants at the SMIT Grand Coding Night 2026, where I built a working frontend product in a 12-hour overnight sprint using HTML, CSS, and AI-assisted workflows.
+I’m a Web Developer and AI Builder passionate about creating AI websites that combine web technologies, AI, and automation to solve real-world problems.
 
-My journey started early at Techno Kids, where I built a strong foundation using tools like MS Paint, MS Office, Canva, and Google Forms. That phase taught me discipline, consistency, and the habit of learning by doing.
+As Co-Founder of Aplinode and former Co-Founder of Markaaf Studio, I’ve worked on AI website development, startup execution, team collaboration, and turning ideas into practical solutions.
 
-I continued at Saylani Mass IT Training, where I transitioned into web development — learning HTML, CSS, and JavaScript — and began understanding how to translate ideas into functional digital experiences.
+#### 🔧 Tech & Interests
 
-To gain real-world exposure, I co-founded Markaaf Studio and later led it as CEO, working with a 12+ member team on client outreach and software services. While the studio eventually closed, it gave me hands-on experience in leadership, execution, and team dynamics.
+- AI Agents & OpenAI Applications
+- Web Development
+- Firebase & Backend Development
+- Automation Workflows & APIs
+- Service-based Startup Innovation
 
-We faced challenges in execution and direction, which helped me realize the gap between learning and building real systems that work under pressure.
+#### 🏆 Hackathon Winner (1200+ Participants)
 
-Now, I focus on combining frontend development with AI to build faster and smarter. I use tools like Claude Code, Gemini CLI, Python, and the OpenAI Agents SDK to experiment with automation and AI-driven workflows.
+Currently building impactful technology, learning from experienced founders and developers, and contributing to projects that create real value.
 
-Currently, I’m advancing my skills at Panaversity, focusing on AI agents, automation, and spec-driven development while building real-world projects.
-
-My core stack includes HTML, CSS, JavaScript, Bootstrap, Git, GitHub, Python, UV, and specification-driven development practices.
-
-I’m looking to collaborate on meaningful tech projects, learn from experienced builders, and contribute to real-world products and open-source.
-
-Let’s connect.
+📫 Let’s connect and build something meaningful.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
