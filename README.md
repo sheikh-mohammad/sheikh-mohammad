@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Sheikh Mohammmad Ahmed</h1>
-<h3 align="center">Frontend Developer | AI Developer | Hackathon Winner (1200+ Participants) | Building Practical Solutions Through Hackathons & Projects</h3>
+<h3 align="center">Web Developer & AI Builder | Co-Founder @ Aplinode | Hackathon Winner (1200+ Participants)</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sheikh-mohammad&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh mohammad profile views" />
