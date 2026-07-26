@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Web Development and Python**
 
-- 📫 How to reach me **sheikhmohammadahmed07@gmail.com**
+- 📫 How to reach me **sheikhmohammad@aplinode.com**
 
 - ⚡ Fun fact **I think I am Smart 😎 😂**
 
